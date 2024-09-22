@@ -1,15 +1,15 @@
 {
-  "name": "Purple",
+  "name": "Mio",
   "gender": "Female",
   "owner": {
-    "id": "270637490526879745",
-    "username": "purpledragonuk",
-    "globalName": "PurpleDragonUK",
-    "avatar": "35dab8c453dbca03270801a5e0d285ff"
+    "id": "799199374899019796",
+    "username": "shaderGraph",
+    "globalName": "Hearth",
+    "avatar": "e1d07c36241909d04435d4d3155671da"
   },
   "avatar": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/96ddcd46-99f4-4122-a5db-01f35b097428/original=true,quality=90/29121208.jpeg",
   "createdAt": "2024-09-08T02:49:54+00:00",
-  "age": 26,
+  "age": 27,
   "personality": {
     "mood": "horny",
     "traits": [
@@ -18,26 +18,19 @@
   },
   "preferences": {
     "likes": [
-      "gaming"
+      "reading"
     ],
     "dislikes": [
     ],
     "sexuality": "Straight"
   },
   "appearance": [
-    "<lora:AutumnWolfSGH:1>",
-    "AutumnWolfSGH",
-    "light ginger hair",
-    "tattoos",
-    "chocker",
-    "gamer",
-    "blue eyes",
-    "piercings"
+    ""
   ],
   "private": false,
   "contentModeration": {
     "nsfw": true,
     "locked": false
   },
-  "id": "Purple"
+  "id": "Mio"
 }
