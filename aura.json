@@ -25,7 +25,7 @@
         "Long Hair",
         "Crop Top",
         "Cute Panties",
-        "Messy Hair",,
+        "Messy Hair",
         "pretty",
         "white skin",
         "brown eyes",
@@ -36,5 +36,6 @@
     "contentModeration": {
         "nsfw": true,
         "locked": false
-    }
+    },
+    "id": "aura"
 }
